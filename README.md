@@ -1,3 +1,3 @@
 # Upgraded US Game.
 
-Map game with python
+Map game with python.
